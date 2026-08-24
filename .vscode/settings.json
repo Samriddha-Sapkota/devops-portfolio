@@ -1,0 +1,6 @@
+{
+    "sonarlint.connectedMode.project": {
+        "connectionId": "samriddha-sapkota",
+        "projectKey": "devops-portfolio"
+    }
+}
